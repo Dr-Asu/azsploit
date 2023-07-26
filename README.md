@@ -39,7 +39,7 @@ AzSploit (Linux) - Metasploit automation (EASIER and FASTER than EVER)
 git clone https://github.com/Dr-Asu/azsploit.git
  
 cd azsploit
-
+chmod +x installer.sh
 bash installer.sh
 
 # How to run (after installation):
